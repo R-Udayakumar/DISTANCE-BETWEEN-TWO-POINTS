@@ -1,7 +1,7 @@
 # DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
-To write a python program to find the distance two 2 points
+To write a python program to find the distance  between two  points
 ## ALGORITHM:
 ### Step 1: 
 Intialize the points in the list
@@ -27,3 +27,4 @@ print("{:.2f}".format(d))
 
 
 ### RESULT:
+Thus, program to find the distance between two points is successfully executed.
