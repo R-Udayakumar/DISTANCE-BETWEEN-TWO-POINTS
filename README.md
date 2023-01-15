@@ -23,7 +23,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![OUTPUT](Screenshot%20(38).png)
+![OUTPUT](/Screenshot%20(38).png)
 
 
 ### RESULT:
